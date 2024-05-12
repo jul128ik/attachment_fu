@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+ultralytics 8.1.14 new YOLOv8-World models (#8054)
